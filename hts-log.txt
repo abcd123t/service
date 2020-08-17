@@ -1,0 +1,18 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 17 Aug 2020 12:55:08 at https://anushreeingale7.responsivewebsitebuilder.io/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://anushreeingale7.responsivewebsitebuilder.io/ -O1 "C:\Users\Home PC\Desktop\serviceVm" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:55:15	Warning: 	Moved Temporarily for https://anushreeingale7.responsivewebsitebuilder.io/
+12:55:15	Warning: 	File has moved from https://anushreeingale7.responsivewebsitebuilder.io/ to https://anushreeingale7.responsivewebsitebuilder.io/home
+13:08:19	Error: 	"Not Found" (404) at link https://anushreeingale7.responsivewebsitebuilder.io/PIE.htc (from https://anushreeingale7.responsivewebsitebuilder.io/editor/direct/css/template.css)
+13:08:19	Error: 	"Not Found" (404) at link https://anushreeingale7.responsivewebsitebuilder.io/editor/direct/images/template/system/selector-arrow.png (from https://anushreeingale7.responsivewebsitebuilder.io/editor/direct/css/template.css)
+13:08:19	Error: 	"Not Found" (404) at link https://anushreeingale7.responsivewebsitebuilder.io/editor/direct/images/template/system/notice-info.png (from https://anushreeingale7.responsivewebsitebuilder.io/editor/direct/css/template.css)
+13:08:19	Error: 	"Not Found" (404) at link https://anushreeingale7.responsivewebsitebuilder.io/editor/direct/images/template/system/notice-alert.png (from https://anushreeingale7.responsivewebsitebuilder.io/editor/direct/css/template.css)
+13:08:20	Error: 	"Not Found" (404) at link https://anushreeingale7.responsivewebsitebuilder.io/editor/direct/images/template/notice-note.png (from https://anushreeingale7.responsivewebsitebuilder.io/editor/direct/css/template.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 13 minutes 12 seconds : 75 links scanned, 68 files written (868360 bytes overall), 14 files updated [149740 bytes received at 189 bytes/sec], 145797 bytes transferred using HTTP compression in 17 files, ratio 18%
+(5 errors, 2 warnings, 0 messages)
